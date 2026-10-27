@@ -42,15 +42,15 @@
         }
     },
     "dependencies": {
-        "@ai-sdk/provider": "^3.0.0",
-        "@ai-sdk/provider-utils": "^4.0.41"
+        "@ai-sdk/provider": "^4.0.0",
+        "@ai-sdk/provider-utils": "^5.0.0"
     },
     "devDependencies": {
         "@biomejs/biome": "2.2.5",
         "@edge-runtime/vm": "5.0.0",
         "@types/jest": "29.5.14",
         "@types/node": "22.13.5",
-        "ai": "^6.0.1",
+        "ai": "^7.0.0",
         "dotenv": "^17.2.3",
         "tsdown": "^0.22.0",
         "typescript": "5.7.3",
